@@ -1,7 +1,7 @@
 ## Python School
 
 # REST-API-in-Django-using-Django-REST-Framework.
-REST API in Django using Django REST Framework.
+REST API in Django using Django REST Framework. 
 
 
 [![Python Version](https://img.shields.io/badge/python-2.7-brightgreen.svg)](https://python.org)
