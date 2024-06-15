@@ -23,7 +23,6 @@ http://127.0.0.1:8000/admin/
 Student Root:
 http://127.0.0.1:8000/
 
-
 # Running the Project Locally
 
 First, clone the repository to your local machine:
